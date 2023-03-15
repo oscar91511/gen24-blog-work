@@ -1,14 +1,5 @@
-@font-face {
-    font-family: "inconsolata";
-    src: url(/fonts/Inconsolata-VariableFont_wdth\,wght.ttf);
-}
 
-@font-face {
-    font-family: "inconsolata";
-    src: url(/fonts/static/Inconsolata/Inconsolata-Bold.ttf);
-}
-
-
+   
 * {
     box-sizing: border-box;
 }
@@ -84,7 +75,7 @@ img {
 .slider {
     display: flex;
     width: 400%;
-    height: 50vh;
+    height: 90vh;
     margin-left: -100%;
 }
 
